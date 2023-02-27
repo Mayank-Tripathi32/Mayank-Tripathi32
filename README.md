@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Leave-it-blank aka blank aka blanky
-- 👀 I’m interested in working on fan projects mostly full stack web development
-- 🌱 I’m currently learning nodejs, tailwind, nuxtjs and ue4.
-- 💞️ I’m looking to collaborate on none.
-- 📫 You can reach me by ...
+- 👋 Hi, I’m @Leave-it-blank aka blank aka blanky aka blanko aka Hash.
+- 👀 I’m interested in working on projects mostly around full stack and open source.
+- 🌱 I’m a React, NextJs Developer with knowledge in laravel, devops etc.
+- 💞️ I’m looking to collaborate.
+- 📫 You can reach me by via mail at "leaveitblank32@gmail.com"
+- You can view my projects using following links~
+    https://monsoon.leaveitblank.co/
 
-<!---
-Leave-it-blank/Leave-it-blank is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ 
