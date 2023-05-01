@@ -42,7 +42,7 @@
       <img  alt="CSS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   </a>
   <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
-      <img  alt="TailwindCss" height="50px" style="padding-right:10px;" src=" https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/240px-Tailwind_CSS_Logo.svg.png"/>
+      <img  alt="TailwindCss" height="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tailwindcss/tailwindcss-plain.svg"/>
   </a>
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
       <img  alt="Sass" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
@@ -61,7 +61,7 @@
       <img  alt="Git" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   </a>
    <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
-      <img  alt="MySql" height="50px" style="padding-right:10px;" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/mysql/mysql-ar21.svg"/>
+      <img  alt="MySql" height="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-plain.svg"/>
   </a>
  
   <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer">
