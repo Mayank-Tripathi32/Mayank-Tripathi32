@@ -1,4 +1,4 @@
-<h1 style="color: #44AEFB;"> 👨🏻‍💻 Leaveitblank </h1>
+<h1 style="color: #44AEFB;"> 👨🏻‍💻 Mayank Tripathi </h1>
 
 ![github_cover_banner](gif.gif)
 
