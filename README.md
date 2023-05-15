@@ -129,7 +129,7 @@
     <a href="mailto:leaveitblank32@gmail.com" target="_blank">
         <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="40px"/>
     </a>
-</div>
+</div> 
 <!-- End Footer -->
 
 <!-- 
