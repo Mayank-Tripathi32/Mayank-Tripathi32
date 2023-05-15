@@ -3,7 +3,7 @@
 ![github_cover_banner](gif.gif)
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-  I am a full-stack software developer who is passionate about making a difference in people's lives through my work. I believe that technology can empower individuals to achieve their full potential, and that's why I enjoy sharing my knowledge through my occasional coding and tech videos. Outside of work, I am also an avid athlete who enjoys Olympic weightlifting and powerlifting, and I like to share my passion for sports through occasional content creation.
+  I am a full-stack software developer who is passionate about making a difference in people's lives through my work. I believe that technology can empower individuals to achieve their full potential, and that's why I enjoy sharing my knowledge through my occasional coding and tech videos. Outside of work, I am also an avid athlete who enjoys Olympic weightlifting and powerlifting, and I like to share my passion for sports through occasional content creation...
 <br>
 <br>
 <div align="center">
