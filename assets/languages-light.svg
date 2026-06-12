@@ -1,0 +1,59 @@
+<svg width="880" height="150" viewBox="0 0 880 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+
+    /* Loop-only animation: the bar is fully drawn at t=0; a highlight sweeps
+       across it where animations run, and is parked off-canvas otherwise. */
+    .shine { animation: sweep 3.4s ease-in-out infinite; }
+    @keyframes sweep {
+      0%   { transform: translateX(0); }
+      55%  { transform: translateX(1100px); }
+      100% { transform: translateX(1100px); }
+    }
+  </style>
+
+  <defs>
+    <linearGradient id="shine-grad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#09090b" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#09090b" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#09090b" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="bar"><rect x="24" y="58" width="832" height="12" rx="6"/></clipPath>
+  </defs>
+
+  <!-- card -->
+  <rect x="0.5" y="0.5" width="879" height="149" rx="12" fill="#ffffff" stroke="#e4e4e7"/>
+
+  <text x="24" y="34" class="sans" font-size="14" font-weight="600" fill="#09090b">Languages</text>
+  <text x="856" y="34" text-anchor="end" class="sans" font-size="12" fill="#a1a1aa">what I actually write — not repo byte counts</text>
+
+  <!-- stacked bar (segments squared, container clip rounds the ends) -->
+  <g clip-path="url(#bar)">
+    <rect x="24"  y="58" width="291" height="12" fill="#09090b"/>
+    <rect x="315" y="58" width="250" height="12" fill="#52525b"/>
+    <rect x="565" y="58" width="166" height="12" fill="#a1a1aa"/>
+    <rect x="731" y="58" width="83"  height="12" fill="#d4d4d8"/>
+    <rect x="814" y="58" width="42"  height="12" fill="#e4e4e7"/>
+    <rect class="shine" x="-140" y="58" width="140" height="12" fill="url(#shine-grad)"/>
+  </g>
+
+  <!-- legend -->
+  <g class="sans" font-size="12.5">
+    <circle cx="29" cy="103" r="4" fill="#09090b"/>
+    <text x="41" y="107.5" fill="#09090b">PHP <tspan fill="#a1a1aa">35%</tspan></text>
+
+    <circle cx="124" cy="103" r="4" fill="#52525b"/>
+    <text x="136" y="107.5" fill="#09090b">TypeScript <tspan fill="#a1a1aa">30%</tspan></text>
+
+    <circle cx="264" cy="103" r="4" fill="#a1a1aa"/>
+    <text x="276" y="107.5" fill="#09090b">JavaScript <tspan fill="#a1a1aa">20%</tspan></text>
+
+    <circle cx="404" cy="103" r="4" fill="#d4d4d8"/>
+    <text x="416" y="107.5" fill="#09090b">SCSS <tspan fill="#a1a1aa">10%</tspan></text>
+
+    <circle cx="509" cy="103" r="4" fill="#e4e4e7"/>
+    <text x="521" y="107.5" fill="#09090b">Bash &amp; tooling <tspan fill="#a1a1aa">5%</tspan></text>
+  </g>
+
+  <text x="24" y="134" class="sans" font-size="11.5" fill="#a1a1aa">Day-to-day at rtCamp: PHP for WordPress core &amp; plugins, TypeScript/React for the editor and frontends.</text>
+</svg>
